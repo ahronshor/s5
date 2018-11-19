@@ -19,6 +19,7 @@ LOCAL_PATH := device/cloud/cirrus_c2
 TARGET_BOARD_PLATFORM := mt6580
 TARGET_BOOTLOADER_BOARD_NAME := cirrus_c2
 
+TARGET_ARCH := arm
 # Recovery
 TW_THEME := portrait_hdpi
 TARGET_USERIMAGES_USE_EXT4 := true
